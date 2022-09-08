@@ -18,5 +18,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print(mult(2,3))
     print(sub(4,3))
+    PRINT("WELCOME TO GITHUB)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
