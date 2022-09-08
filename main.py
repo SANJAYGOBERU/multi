@@ -10,11 +10,13 @@ def print_hi(name):
 
 def mult(a,b):
     return a*b
+
+def sub(a,b):
+    return a-b
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
-    print(sanjay)
-    print(collage-klu)
     print(mult(2,3))
+    print(sub(4,3))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
